@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6628B5B8-C7F0-49D3-935C-76B552C8CC7F}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MagicVilla__Utility FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="villa/Program.cs">
+    <Files>
+      <File FileName="villa/Controllers/VillaNumberAPIController.cs" Line="1" Column="1" />
+      <File FileName="villa/Controllers/VillaAPIController.cs" Line="1" Column="1" />
+      <File FileName="villa/appsettings.json" Line="1" Column="1" />
+      <File FileName="villa/Program.cs" Line="7" Column="1" />
+      <File FileName="villa_web/appsettings.json" Line="11" Column="1" />
+      <File FileName="villa/MappingConfig.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="villa" expanded="True" selected="True">
+            <Node name="villa" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="villa_web" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.villa PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.villa__web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.angular FirstBuild="True" />
+</Properties>
